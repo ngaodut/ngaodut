@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ngaodut
-- 👀 I’m interested in ...
+- 👀 I’m interested in physics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me：gndut@outlook.com
