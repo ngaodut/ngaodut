@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me：gndut@outlook.com
-- ✨ Welcome to browse my online documents：https://blgxwk.xyz
+- ✨ Welcome to browse my online documents：[https://blgxwk.xyz](https://www.blgxwk.blog/)
 
 <!---
 ngaodut/ngaodut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
